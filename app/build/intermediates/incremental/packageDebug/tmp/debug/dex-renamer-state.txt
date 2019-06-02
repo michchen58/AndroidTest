@@ -1,0 +1,4 @@
+#Sun Jun 02 15:00:58 PDT 2019
+base.0=/Users/chenm/Projects/android/android_hello_world/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
